@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nefarious Naval Nastiness</string>
+    <string name="instruct">Pick a color to represent your pieces and press start game to begin (skip color selection)</string>
+</resources>
